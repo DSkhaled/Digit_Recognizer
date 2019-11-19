@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 24 16:54:49 2019
 
-@author: Inspiron 15
+@author: Khaled YACOUBI
 """
 #%reset -f
 #%clear
